@@ -1,0 +1,9 @@
+{
+  "name": "tutor",
+  "description": "An all-purpose interactive learning skill. Teaches any topic using guided conversation, real-world examples, hands-on challenges, and a persistent learning journal.",
+  "author": {
+    "name": "Damon Simmonds",
+    "email": "damonsim6@gmail.com"
+  },
+  "version": "1.0.0"
+}
