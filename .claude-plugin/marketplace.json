@@ -1,0 +1,20 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "my-skills",
+  "description": "Personal Claude Code skills — all-purpose interactive learning and more",
+  "owner": {
+    "name": "Damon Simmonds",
+    "email": "damonsim6@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "tutor",
+      "description": "All-purpose interactive learning skill. Teaches any topic using Socratic conversation, real-world examples, hands-on challenges, and a persistent learning journal.",
+      "author": {
+        "name": "Damon Simmonds"
+      },
+      "category": "productivity",
+      "source": "./plugins/tutor"
+    }
+  ]
+}
